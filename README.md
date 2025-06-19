@@ -65,8 +65,8 @@ Suivez ces étapes pour configurer et exécuter l'application sur votre machine 
 1.  **Cloner le dépôt :**
 
     ```bash
-    git clone https://github.com/[VotreNomUtilisateur]/[NomDeVotreDépôt].git
-    cd [NomDeVotreDépôt]
+    git clone https://github.com/falama7/CAMEROON-FireInsight.git
+    cd CAMEROON-FireInsight
     ```
 
 2.  **Créer un environnement virtuel (recommandé) :**
