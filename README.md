@@ -134,9 +134,13 @@ Vous pouvez télécharger les données brutes à partir de leur portail : [NASA 
 
 Le format de fichier CSV attendu doit contenir a minima les colonnes suivantes : `latitude`, `longitude`, `acq_date`, `acq_time`, `confidence`, `daynight`. La colonne `frp` (Fire Radiative Power) est optionnelle mais recommandée pour des analyses d'intensité.
 
-## Capture d'Écran (Optionnel)
+## Capture d'Écran
 
-*Incluez ici une capture d'écran attrayante de votre application en action. C'est souvent la première chose que les visiteurs regardent \!*
+
+![CMFI](images/image (1).png)
+
+https://github.com/falama7/CAMEROON-FireInsight/blob/main/images/image%20(2).png
+https://github.com/falama7/CAMEROON-FireInsight/blob/main/images/image%20(3).png
 
 ## Contribuer
 
