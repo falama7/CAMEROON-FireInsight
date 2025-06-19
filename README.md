@@ -154,8 +154,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](https://www.google.com
 
 ## Contact
 
-[Votre Nom/Prénom] - [Votre Email ou Lien LinkedIn/Twitter]
-
-Lien du projet : [[lien suspect supprimé][VotreNomUtilisateur]/[NomDeVotreDépôt]](https://www.google.com/search?q=https://github.com/%5BVotreNomUtilisateur%5D/%5BNomDeVotreD%C3%A9p%C3%B4t%5D)
+NJILA Donald - kemegnidonald@gmail.com
+Lien du projet : [[lien suspect supprimé][VotreNomUtilisateur]/[NomDeVotreDépôt]](https://www.google.com/search?q=[https://github.com/%5BVotreNomUtilisateur%5D/%5BNomDeVotreD%C3%A9p%C3%B4t%5D](https://github.com/falama7/CAMEROON-FireInsight.git))
 
 -----
