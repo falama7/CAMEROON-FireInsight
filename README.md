@@ -155,5 +155,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](https://www.google.com
 ## Contact
 
 NJILA Donald - kemegnidonald@gmail.com
+
 Lien du projet : https://github.com/falama7/CAMEROON-FireInsight.git
+
 -----
