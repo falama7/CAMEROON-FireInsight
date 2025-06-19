@@ -1,4 +1,5 @@
-🔥 [CM-FI_CAMEROON FireInsight]
+🔥CM-FI_CAMEROON FireInsight
+
 Description
 Cette application interactive, développée avec Streamlit, offre une solution complète pour l'analyse et la prévision de l'activité des feux au Cameroun. Elle permet aux utilisateurs de charger des données de détection de feux VIIRS, de les filtrer et de visualiser des tendances spatiales, temporelles et prédictives pour une meilleure gestion des risques d'incendie.
 
