@@ -96,7 +96,7 @@ def create_heatmap(df, zoom_start=6):
     
     # Ajouter des tuiles supplémentaires
     folium.TileLayer('CartoDB dark_matter', name='Dark Map', attr='CartoDB').add_to(m)
-    folium.TileLayer('Stamen Terrain', name='Terrain', attr='Stamen Design').add_to(m)
+    folium.TileLayer('Stamen Terrain', name='Terrain', attr='Stamen Design | OpenStreetMap').add_to(m)
     
     # Préparer les données pour la carte de chaleur
     if not df.empty:
@@ -387,8 +387,8 @@ def create_animated_forecast_map(df, forecast_data, period=6, grid_size=0.1, fre
     m = folium.Map(location=[center_lat, center_lon], zoom_start=6, tiles="CartoDB positron")
     
     # Ajouter des tuiles supplémentaires
-    folium.TileLayer('CartoDB dark_matter', name='Dark Map').add_to(m)
-    folium.TileLayer('Stamen Terrain', name='Terrain').add_to(m)
+    folium.TileLayer('CartoDB dark_matter', name='Dark Map', attr='CartoDB').add_to(m)
+    folium.TileLayer('Stamen Terrain', name='Terrain', attr='Stamen Design | OpenStreetMap').add_to(m)
     
     # Créer un plugin HeatMapWithTime
     from folium.plugins import HeatMapWithTime
