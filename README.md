@@ -8,16 +8,16 @@ Cette application interactive, développée avec Streamlit, offre une solution c
 
 ## Table des matières
 
-  - [Description](https://www.google.com/search?q=%23fonctionnalit%C3%A9s)
-  - [Fonctionnalités](https://www.google.com/search?q=%23fonctionnalit%C3%A9s)
-  - [Technologies Utilisées](https://www.google.com/search?q=%23technologies-utilis%C3%A9es)
-  - [Installation](https://www.google.com/search?q=%23installation)
-  - [Utilisation](https://www.google.com/search?q=%23utilisation)
-  - [Source des Données](https://www.google.com/search?q=%23source-des-donn%C3%A9es)
-  - [Capture d'Écran (Optionnel)](https://www.google.com/search?q=%23capture-d%C3%A9cran-optionnel)
-  - [Contribuer](https://www.google.com/search?q=%23contribuer)
-  - [License](https://www.google.com/search?q=%23license)
-  - [Contact](https://www.google.com/search?q=%23contact)
+  - [Description](https://github.com/falama7/CAMEROON-FireInsight/blob/main/README.md#description)
+  - [Fonctionnalités](https://github.com/falama7/CAMEROON-FireInsight/blob/main/README.md#fonctionnalit%C3%A9s)
+  - [Technologies Utilisées](https://github.com/falama7/CAMEROON-FireInsight/blob/main/README.md#technologies-utilis%C3%A9es)
+  - [Installation](https://github.com/falama7/CAMEROON-FireInsight/blob/main/README.md#installation)
+  - [Utilisation](https://github.com/falama7/CAMEROON-FireInsight/blob/main/README.md#utilisation)
+  - [Source des Données](https://github.com/falama7/CAMEROON-FireInsight/blob/main/README.md#source-des-donn%C3%A9es)
+  - [Capture d'Écran](https://github.com/falama7/CAMEROON-FireInsight/blob/main/README.md#capture-d%C3%A9cran)
+  - [Contribuer](https://github.com/falama7/CAMEROON-FireInsight/blob/main/README.md#contribuer)
+  - [License](https://github.com/falama7/CAMEROON-FireInsight/blob/main/README.md#license)
+  - [Contact](https://github.com/falama7/CAMEROON-FireInsight/blob/main/README.md#contact)
 
 ## Fonctionnalités
 
